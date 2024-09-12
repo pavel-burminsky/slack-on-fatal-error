@@ -1,0 +1,12 @@
+#tmm-slack-on-fatal-error-settings fieldset.error-levels span.description {
+	display: inline-block;
+	padding: 2px 8px 3px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	background: #fafafa;
+	margin-left: 5px;
+}
+
+#tmm-slack-on-fatal-error-settings fieldset.error-levels label {
+	width: 155px;
+}
