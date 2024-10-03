@@ -4,7 +4,7 @@
  * Plugin Name: Send Slack Message On Fatal Error
  * Description: Receive Slack notifications when errors occur on your WordPress site.
  * Plugin URI: https://github.com/pavel-burminsky/slack-on-fatal-error
- * Version: 1.0
+ * Version: 1.1
  * Author: Pavel Burminsky
  * Author URI: https://github.com/pavel-burminsky
  * Text Domain: slack-on-fatal-error
